@@ -1,0 +1,20 @@
+h2 {
+    font-family:Tahoma;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: large;
+}
+p.dotted {border-style: dotted;}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
