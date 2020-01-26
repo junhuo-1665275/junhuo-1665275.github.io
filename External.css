@@ -1,0 +1,23 @@
+h2{
+
+}
+
+body {
+    background-image: url('dark_wood.png');
+}
+
+form{
+
+}
+
+div{
+    border-radius: 25px;
+    background-color: honeydew;
+    padding: 20px; 
+    width: 800px;
+    height: 150px;
+}
+
+#field{
+
+}
